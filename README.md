@@ -40,7 +40,7 @@ All this is done within Excel — no need for third-party tools or paid software
 📸 Dashboard Preview
 Here's how your dashboard looks:
 
-              <img width="709" height="278" alt="145340" src="https://github.com/user-attachments/assets/c4f56381-2469-479e-9009-a549a6fbd14f" />
+<img width="709" height="278" alt="145340" src="https://github.com/user-attachments/assets/c4f56381-2469-479e-9009-a549a6fbd14f" />
 
 
 🧾 Raw Data Structure
@@ -50,7 +50,7 @@ Here's how your dashboard looks:
 
 
  
-          <img width="947" height="452" alt="144406" src="https://github.com/user-attachments/assets/84a96264-2c0a-44ba-a25d-43bcb19f95cd" />
+<img width="947" height="452" alt="144406" src="https://github.com/user-attachments/assets/84a96264-2c0a-44ba-a25d-43bcb19f95cd" />
 
 
 
@@ -90,12 +90,13 @@ Sub GoToDashboard4()
     Sheets("Dashboard 4").Activate
 End Sub
 
-            <img width="705" height="329" alt="144702" src="https://github.com/user-attachments/assets/7d9920a8-aab8-48d7-824e-8267a537774d" />
+
+<img width="705" height="329" alt="144702" src="https://github.com/user-attachments/assets/7d9920a8-aab8-48d7-824e-8267a537774d" />
 
             
 
                5. Assign Macro to Each Shape
-              <img width="957" height="467" alt="image" src="https://github.com/user-attachments/assets/d417eace-ed3b-4b18-b871-c80dd73d946e" />
+<img width="957" height="467" alt="image" src="https://github.com/user-attachments/assets/d417eace-ed3b-4b18-b871-c80dd73d946e" />
 
 
 📈 Key Metrics Tracked
