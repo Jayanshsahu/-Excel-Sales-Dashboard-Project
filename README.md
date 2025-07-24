@@ -3,6 +3,9 @@ An interactive and automated Excel dashboard that visualizes the performance of 
 📊 #ExcelDashboard | 📈 #SalesAnalytics | 🧮 #MISReporting | 🧠 #BusinessIntelligence | 💼 #PerformanceTracking | 💻 #ExcelVBA
 
 
+
+
+
 🔍 Problem Statement
 Sales managers struggle to gain quick insights from tabular data. Raw sales entries do not show:
 
@@ -13,6 +16,9 @@ Which regions are underperforming?
 What’s the sales pattern over time?
 
 This creates delays in decision-making, performance tracking, and incentive planning.
+
+
+
 
 
 
@@ -37,10 +43,22 @@ All this is done within Excel — no need for third-party tools or paid software
 
 
 
+
+
 📸 Dashboard Preview
 Here's how your dashboard looks:
 
 <img width="709" height="278" alt="145340" src="https://github.com/user-attachments/assets/c4f56381-2469-479e-9009-a549a6fbd14f" />
+
+
+
+
+
+
+
+
+
+
 
 
 🧾 Raw Data Structure
@@ -49,8 +67,19 @@ Here's how your dashboard looks:
 | MUM-TCL001 | Raj Verma       | Mumbai | 49   | 84   | ... | 339         | 500    | 67.8%        | 32.2%              |
 
 
+
+
+
  
 <img width="947" height="452" alt="144406" src="https://github.com/user-attachments/assets/84a96264-2c0a-44ba-a25d-43bcb19f95cd" />
+
+
+
+
+
+
+
+
 
 
 
@@ -65,6 +94,10 @@ Here's how your dashboard looks:
 | 📋 Pivot Table   | Dynamic data grouping                            |
 | 🧠 Visual Design | Shape buttons, color-coded formatting            |
 | ⚙️ Macros (VBA)  | Sheet navigation using shape buttons             |
+
+
+
+
 
 
 ⚙️ Macro/VBA Code Used
@@ -91,12 +124,26 @@ Sub GoToDashboard4()
 End Sub
 
 
+
+
 <img width="705" height="329" alt="144702" src="https://github.com/user-attachments/assets/7d9920a8-aab8-48d7-824e-8267a537774d" />
+
+
+
+
+
 
             
 
                5. Assign Macro to Each Shape
 <img width="957" height="467" alt="image" src="https://github.com/user-attachments/assets/d417eace-ed3b-4b18-b871-c80dd73d946e" />
+
+
+
+
+
+
+
 
 
 📈 Key Metrics Tracked
@@ -109,6 +156,8 @@ End Sub
 🏆 Top Performer → Highest sales and hit %
 
 📉 Bottom Performer → Lowest sales and highest away-from-target %
+
+
 
 
 
@@ -129,6 +178,10 @@ Line Chart |
 | 8️⃣ | Test filters and update charts automatically when data changes |
 
 
+
+
+
+
 📥 How to Use
 Open the .xlsm file in Microsoft Excel 2016 or later
 
@@ -139,6 +192,9 @@ Go to RAW DATA → Add/update employee sales
 Click on "Dashboard 1", "Dashboard 2", etc. to view insights
 
 📎 Data auto-updates across charts and summary tables
+
+
+
 
 
 
@@ -154,6 +210,10 @@ Click on "Dashboard 1", "Dashboard 2", etc. to view insights
 🎓 Data Analytics Portfolio
 
 
+
+
+
+
 🛠 Future Improvements
 Add slicers to filter by region or executive
 
@@ -162,6 +222,9 @@ Use dynamic named ranges for real-time chart updates
 Export dashboard to PDF for presentations
 
 Integrate Excel Power Query for automation
+
+
+
 
 
 🔐 Data Licensing
